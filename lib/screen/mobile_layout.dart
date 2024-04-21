@@ -87,7 +87,7 @@ class MobileLayout extends StatelessWidget {
         ),
         floatingActionButton: Padding(
          
-           padding: const EdgeInsets.only(bottom: 70),
+           padding: const EdgeInsets.only(bottom: 71),
           child: FloatingActionButton(
             onPressed: () {},
             backgroundColor: tabColor,
